@@ -124,7 +124,7 @@
             <mxPoint x="430" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LbSnsfPekfrVSXR3aclI-50" value="Work_on" style="rhombus;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="LbSnsfPekfrVSXR3aclI-50" value="Bán" style="rhombus;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="265" y="545" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LbSnsfPekfrVSXR3aclI-52" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;shape=link;" parent="1" source="LbSnsfPekfrVSXR3aclI-50" target="LbSnsfPekfrVSXR3aclI-11" edge="1">
