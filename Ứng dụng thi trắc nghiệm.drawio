@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0" version="27.1.5">
   <diagram name="Trang-1" id="49rGK9Wy-XXrtfB1yr9R">
-    <mxGraphModel dx="1783" dy="5620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="3048" dy="6173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,9 +175,6 @@
         <mxCell id="UYioS61zLq3l_Eg0EsI4-54" value="Thời gian kết thúc" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="900" y="1050" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UYioS61zLq3l_Eg0EsI4-55" value="Điểm số" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="1060" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="UYioS61zLq3l_Eg0EsI4-56" value="Chi tiết lần làm bài" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1620" y="960" width="120" height="50" as="geometry" />
         </mxCell>
@@ -193,9 +190,9 @@
             <mxPoint x="1620" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UYioS61zLq3l_Eg0EsI4-59" value="" style="endArrow=none;html=1;rounded=0;entryX=0.864;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=17;" parent="1" source="UYioS61zLq3l_Eg0EsI4-55" target="UYioS61zLq3l_Eg0EsI4-51" edge="1">
+        <mxCell id="UYioS61zLq3l_Eg0EsI4-59" value="" style="endArrow=none;html=1;rounded=0;entryX=0.864;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="1IcfvBbDkryTdwXYLeAH-1" target="UYioS61zLq3l_Eg0EsI4-51" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1570" y="920" as="sourcePoint" />
+            <mxPoint x="1099.2408744629802" y="1060.1374336572553" as="sourcePoint" />
             <mxPoint x="1190" y="980" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
@@ -222,18 +219,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UYioS61zLq3l_Eg0EsI4-64" value="Đã đánh dấu" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1810" y="1040" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="UYioS61zLq3l_Eg0EsI4-66" value="Lựa chọn của học sinh" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1595" y="1070" width="110" height="50" as="geometry" />
+          <mxGeometry x="1690" y="1040" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UYioS61zLq3l_Eg0EsI4-68" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=17;" parent="1" source="UYioS61zLq3l_Eg0EsI4-56" target="UYioS61zLq3l_Eg0EsI4-64" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1570" y="630" as="sourcePoint" />
-            <mxPoint x="1620" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UYioS61zLq3l_Eg0EsI4-69" value="" style="endArrow=none;html=1;rounded=0;fontSize=17;" parent="1" source="UYioS61zLq3l_Eg0EsI4-66" target="UYioS61zLq3l_Eg0EsI4-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1570" y="630" as="sourcePoint" />
             <mxPoint x="1620" y="580" as="targetPoint" />
@@ -1352,6 +1340,9 @@
               <mxPoint x="1310" y="1435" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1IcfvBbDkryTdwXYLeAH-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Điểm số&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="1050" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
